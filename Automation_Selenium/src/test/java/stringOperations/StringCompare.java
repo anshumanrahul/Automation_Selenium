@@ -22,6 +22,7 @@ public class StringCompare {
 		
 		
 		String patt="[A-Z]{1,}";
+		
 		System.out.println(str1.matches(patt));
 
 	}

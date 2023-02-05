@@ -32,7 +32,7 @@ public class StringSearch {
 		
 		System.out.println(str1.indexOf("h", 9));
 		
-		//use of last Index of
+		//use of lastIndex of
 		
 		System.out.println(str1.lastIndexOf("h"));
 
