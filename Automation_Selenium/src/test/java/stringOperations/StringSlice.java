@@ -9,8 +9,20 @@ public class StringSlice {
 		
 		String str1="ABCDEF";
 		
-		System.out.println(str1.charAt(9));
+		System.out.println(str1.charAt(4));
+		
+		System.out.println(str1.substring(2));
+		System.out.println(str1.substring(2,4));
 
+		String str2="A_B_C_D_E_F";
+		String str3="_";
+		
+		String[] arr=str2.split(str3);
+		for(String x:arr)
+		{
+			System.out.println(x);
+		}
+		
 	}
 
 }
