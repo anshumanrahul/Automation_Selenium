@@ -39,11 +39,11 @@ public class StringBasics {
 		System.out.println(str6.trim());
 		
 		
-		//Convert String to uppercase
+		//Convert String to upper case
 		
 		System.out.println(str6.toUpperCase());
 		
-		//Convert String to Lowercase
+		//Convert String to Lower case
 		
 		System.out.println(str6.toLowerCase());
 		
