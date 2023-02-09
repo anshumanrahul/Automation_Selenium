@@ -10,6 +10,12 @@ public class StringBuilder_Method {
 		
 		sb2.replace(9, 13, "everything");
 		System.out.println(sb2);
+		
+		sb2.delete(9, 12);
+		System.out.println(sb2);
+		
+		sb2.reverse();
+		System.out.println(sb2);
 	
 
 	}
