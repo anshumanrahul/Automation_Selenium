@@ -1,4 +1,4 @@
-package inheritance_Abstraction_Polymorphism;
+package methodOverriding;
 
 public class Cat_MethodOverriding extends AnimalClass_Method_Overriding {
 	public void WhoIAm()

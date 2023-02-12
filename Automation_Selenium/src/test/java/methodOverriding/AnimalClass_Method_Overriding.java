@@ -1,4 +1,4 @@
-package inheritance_Abstraction_Polymorphism;
+package methodOverriding;
 
 public class AnimalClass_Method_Overriding {
 /* When a superclass and subclass has exactly the same name with same arguments then the method from child class 

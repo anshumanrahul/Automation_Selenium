@@ -1,4 +1,4 @@
-package inheritance_Abstraction_Polymorphism;
+package methodOverriding;
 
 public class Dog_MethodOverriding extends AnimalClass_Method_Overriding {
 	

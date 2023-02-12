@@ -1,4 +1,4 @@
-package inheritance_Abstraction_Polymorphism;
+package inheritance;
 
 public class Ractangle_Inheritance extends Polygon_Inheritance{
 	public void calculateArea()

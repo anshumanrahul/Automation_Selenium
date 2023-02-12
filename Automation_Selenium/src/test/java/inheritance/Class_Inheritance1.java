@@ -1,4 +1,4 @@
-package inheritance_Abstraction_Polymorphism;
+package inheritance;
 
 public class Class_Inheritance1 {
 	
